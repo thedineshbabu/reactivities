@@ -1,0 +1,14 @@
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Persistance.dll
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/Users/deebee/Documents/Repo/Reactivities/Application/bin/Debug/net5.0/Persistance.pdb
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/Users/deebee/Documents/Repo/Reactivities/Application/obj/Debug/net5.0/Application.pdb

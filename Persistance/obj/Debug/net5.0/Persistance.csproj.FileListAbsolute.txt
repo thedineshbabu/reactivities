@@ -1,0 +1,12 @@
+/Users/deebee/Documents/Repo/Reactivities/Persistance/bin/Debug/net5.0/Persistance.deps.json
+/Users/deebee/Documents/Repo/Reactivities/Persistance/bin/Debug/net5.0/Persistance.dll
+/Users/deebee/Documents/Repo/Reactivities/Persistance/bin/Debug/net5.0/Persistance.pdb
+/Users/deebee/Documents/Repo/Reactivities/Persistance/bin/Debug/net5.0/Domain.dll
+/Users/deebee/Documents/Repo/Reactivities/Persistance/bin/Debug/net5.0/Domain.pdb
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csproj.CoreCompileInputs.cache
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.csproj.CopyComplete
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.dll
+/Users/deebee/Documents/Repo/Reactivities/Persistance/obj/Debug/net5.0/Persistance.pdb
